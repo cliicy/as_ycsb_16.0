@@ -1,0 +1,2 @@
+drv use_intx=0
+blk sector_size=0x200
